@@ -1,6 +1,6 @@
 from crypt import methods
 from logging import raiseExceptions
-from signal import raise_signal
+# from signal import raise_signal
 from flask import Flask, render_template, jsonify, request
 import os
 from flask_pymongo import PyMongo
