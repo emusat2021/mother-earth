@@ -9,7 +9,7 @@ The team members for this project were: Nigel Doberer, Salwin Achankunju_5P, Yus
 
 ![Mock-up of site](static/images/motherearthmockup.png)
 
-Deployed website can be viewed [here](http://mother-earth-hackathon.herokuapp.com/).
+Deployed website can be viewed [here](https://mother-earth.onrender.com/).
 
 ## Project Goals
   
