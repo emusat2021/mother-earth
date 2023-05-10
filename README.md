@@ -5,7 +5,7 @@
 Mother earth helps you plan for a more sustainable future in a playful way through simple tips, quiz, events, rewards.
 By raising self-awareness we can enable peole to reconnect to themselves ,reconnect to nature and truly comprehend humanity's impact on the planet by creating
 a quiz app feature, tree planting donation feature and some extra resources.
-The team members for this project were: Nigel Doberer, Salwin Achankunju_5P, Yusuf F, Jochen Mayer, Eugenia Muscat & Sandra Atino under the guidance of our facilitator, DaveHorrocks_ci.
+The team members for this project were: Nigel Doberer, Salwin Achankunju_5P, Yusuf F, Jochen Mayer, Eugenia Musat & Sandra Atino under the guidance of our facilitator, DaveHorrocks_ci.
 
 ![Mock-up of site](static/images/motherearthmockup.png)
 
